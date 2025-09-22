@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joy</h1>
 <h3 align="center">A passionate LLM consumer from Korea</h3>
 
-- 📫 How to reach me **mihyekim1987@gmail.com**
+- 📫 How to reach me **test@test.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
